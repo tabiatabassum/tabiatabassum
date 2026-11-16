@@ -15,12 +15,16 @@
 
 ## 👩‍💻 About Me
 
-- 🐍 Focused on Python Backend Development
-- 💻 Interested in Web Development and Software Engineering
-- 🌱 Always learning and improving my programming skills
-- 🚀 Building practical projects and exploring new technologies
-- 🤝 Open to collaboration and new opportunities
+## 👩‍💻 About Me
 
+I am a **Computer Science and Engineering student at Daffodil International University**, passionate about **Artificial Intelligence, Machine Learning, Python, and Software Development**. I enjoy building practical applications and exploring emerging technologies.
+
+My experience spans backend and full-stack development, API design, and database management, with a focus on problem-solving and efficient system design.
+
+- **Technical Interests:** Artificial Intelligence, Machine Learning, Python Development, and Research.
+- **Development Focus:** Backend Engineering, Full-Stack Development, RESTful API Design, and Database Management.
+- **Engineering Practice:** Applying object-oriented principles, structured system design, and problem-solving techniques to real-world projects.
+- **Continuous Learning:** Exploring AI-driven technologies and strengthening software engineering fundamentals.
 ---
 
 ## 🌐 Connect With Me
