@@ -1,14 +1,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:123B5D,100:38BDF8&height=200&section=header&text=Tabia%20Tabassum&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:123B5D,100:38BDF8&height=200&section=header&text=Tabia%20Tabassum&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=60&descSize=18" width="100%" />
 
-### Hi there! 👋 Welcome to my GitHub Profile
+<h3>Hi there! 👋 Welcome to my GitHub Profile</h3>
 
-**Python Backend Developer | Aspiring Software Engineer**
+<p>
+  <b>Python Backend Developer | Aspiring Software Engineer</b>
+</p>
 
-I enjoy building applications, solving problems, and learning new technologies.  
-My main focus is Python backend development and creating useful software projects.
+<p>
+  Passionate about coding, building applications, and learning new technologies.
+</p>
 
 </div>
 
@@ -16,19 +19,25 @@ My main focus is Python backend development and creating useful software project
 
 ## 👩‍💻 About Me
 
-- 🐍 Focused on **Python Backend Development**
-- 🌱 Continuously learning and improving my programming skills
+- 🐍 Focused on Python Backend Development
 - 💻 Interested in Web Development and Software Engineering
+- 🌱 Always learning and improving my programming skills
 - 🚀 Building practical projects and exploring new technologies
-- 🤝 Open to learning, collaboration, and new opportunities
+- 🤝 Open to collaboration and new opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,js,react,git,github,vscode&theme=dark" />
+### Programming & Development
+
+<img src="https://skillicons.dev/icons?i=python,flask,js,react,mysql&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
@@ -36,15 +45,53 @@ My main focus is Python backend development and creating useful software project
 
 ## 🚀 My Projects
 
-Here are some of the projects I've worked on:
+<div align="center">
 
-| Project | Description |
-|---|---|
-| 🏠 **Bari Khujo** | Property-related project |
-| 🖥️ **DIU Kiosk** | Kiosk application |
-| 🛍️ **Girlymart** | E-commerce website |
-| 🏫 **School Management System** | School management application |
-| 🛒 **DailyMart** | Grocery shopping application |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Bari Khujo
+
+Property-related project.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ DIU Kiosk
+
+Academic project.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Girlymart
+
+E-commerce project.
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 DailyMart
+
+Grocery shopping application.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🏫 School Management System
+
+School management project.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -56,11 +103,14 @@ Here are some of the projects I've worked on:
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabiatabassum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
 
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=tabiatabassum&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="70%" />
 
 </div>
 
 ---
+
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -75,22 +125,34 @@ Here are some of the projects I've worked on:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tabiatabassum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=tabiatabassum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/tabiatabassum">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:tabassum242-15-063@diu.edu.bd">
+<img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/tabia-tabassum-15582a374">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/tabia.tabassum.755363">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/aa.athoii_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/tabiatabassum">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -101,7 +163,7 @@ Here are some of the projects I've worked on:
 
 ### 💙 Thanks for visiting my profile!
 
-*Always learning. Always building. Always growing.*
+**Always Learning | Always Building | Always Growing**
 
 <img src="https://komarev.com/ghpvc/?username=tabiatabassum&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" />
 
