@@ -1,17 +1,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:123B5D,100:38BDF8&height=200&section=header&text=Tabia%20Tabassum&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,45:075985,100:38BDF8&height=235&section=header&text=Tabia%20Tabassum&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=19&animation=fadeIn" width="100%" />
 
 <h3>Hi there! 👋 Welcome to my GitHub Profile</h3>
 
-<p>
-  <b>Python Backend Developer | Aspiring Software Engineer</b>
-</p>
+<p><b>Python Backend Developer | Aspiring Software Engineer</b></p>
 
-<p>
-  Passionate about coding, building applications, and learning new technologies.
-</p>
+<p>Passionate about coding, building applications, and learning new technologies.</p>
 
 </div>
 
@@ -24,6 +20,30 @@
 - 🌱 Always learning and improving my programming skills
 - 🚀 Building practical projects and exploring new technologies
 - 🤝 Open to collaboration and new opportunities
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:tabassum242-15-063@diu.edu.bd">
+<img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/tabia-tabassum-15582a374">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/tabia.tabassum.755363">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/aa.athoii_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/tabiatabassum">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -125,34 +145,10 @@ School management project.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tabiatabassum&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:tabassum242-15-063@diu.edu.bd">
-<img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/tabia-tabassum-15582a374">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/tabia.tabassum.755363">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/aa.athoii_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+*Your GitHub achievements will be showcased here.*
 
 <a href="https://github.com/tabiatabassum">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+View My GitHub Achievements
 </a>
 
 </div>
