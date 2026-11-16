@@ -68,53 +68,17 @@ My experience spans backend and full-stack development, API design, and database
 
 ## 🚀 My Projects
 
-<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Projects & Repositories
 
-### 🏠 Bari Khujo
+| Project & Repository | System Architecture & Description | Core Technology |
+|---|---|---|
+| **Bari Khujo** | Full-stack housing rental platform featuring advanced property filters, a roommate matching algorithm, and secure deposit handling. | Python, Django, MySQL |
+| **DIU Kiosk** | REST API-based platform for streamlining printing services, QA handling, and retail sales operations. | Java, Spring Boot, React |
+| **Girlymart** | E-commerce application following MVC architecture, featuring seamless product listing, browsing, and complex catalog management. | Java, Spring Boot, Thymeleaf |
+| **School Management System** | Digital administration solution modeling complex entity relationships using core object-oriented design principles. | Java, OOP |
+| **DailyMart** | Full-stack grocery shopping platform featuring a customer mobile application, admin panel, product management, order processing, and simulated payment and delivery workflows. | React, React Native, JavaScript, Python (Flask), MySQL |
 
-Property-related project.
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ DIU Kiosk
-
-Academic project.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ Girlymart
-
-E-commerce project.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 DailyMart
-
-Grocery shopping application.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🏫 School Management System
-
-School management project.
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
