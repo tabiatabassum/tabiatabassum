@@ -15,7 +15,6 @@
 
 ## 👩‍💻 About Me
 
-## 👩‍💻 About Me
 
 I am a **Computer Science and Engineering student at Daffodil International University**, passionate about **Artificial Intelligence, Machine Learning, Python, and Software Development**. I enjoy building practical applications and exploring emerging technologies.
 
