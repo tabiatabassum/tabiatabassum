@@ -61,6 +61,15 @@ Here are some of the projects I've worked on:
 </div>
 
 ---
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tabiatabassum&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
