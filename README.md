@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,45:075985,100:38BDF8&height=235&section=header&text=Tabia%20Tabassum&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=19&animation=fadeIn" width="100%" />
@@ -73,14 +72,15 @@ My experience spans backend and full-stack development, API design, and database
 
 | Project & Repository | System Architecture & Description | Core Technology |
 |---|---|---|
-| **Bari Khujo** | Full-stack housing rental platform featuring advanced property filters, a roommate matching algorithm, and secure deposit handling. | Python, Django, MySQL |
-| **DIU Kiosk** | REST API-based platform for streamlining printing services, QA handling, and retail sales operations. | Java, Spring Boot, React |
-| **Girlymart** | E-commerce application following MVC architecture, featuring seamless product listing, browsing, and complex catalog management. | Java, Spring Boot, Thymeleaf |
-| **School Management System** | Digital administration solution modeling complex entity relationships using core object-oriented design principles. | Java, OOP |
-| **DailyMart** | Full-stack grocery shopping platform featuring a customer mobile application, admin panel, product management, order processing, and simulated payment and delivery workflows. | React, React Native, JavaScript, Python (Flask), MySQL |
+| [Bari Khujo](https://github.com/tabiatabassum/Bari-Khujo) | Full-stack housing rental platform featuring advanced property filters, a roommate matching algorithm, and secure deposit handling. | Python, Django, MySQL |
+| [DIU Kiosk](https://github.com/tabiatabassum/DIU-Kiosk) | REST API-based platform for streamlining printing services, QA handling, and retail sales operations. | Java, Spring Boot, React |
+| [Girlymart](https://github.com/tabiatabassum/Girlymart) | E-commerce application following MVC architecture, featuring seamless product listing, browsing, and complex catalog management. | Java, Spring Boot, Thymeleaf |
+| [School Management System](https://github.com/tabiatabassum/School-Management-System) | Digital administration solution modeling complex entity relationships using core object-oriented design principles. | Java, OOP |
+| [DailyMart](https://github.com/tabiatabassum/DailyMart) | Full-stack grocery shopping platform featuring a customer mobile application, admin panel, product management, order processing, and simulated payment and delivery workflows. | React, React Native, JavaScript, Python (Flask), MySQL |
 | [Buddio AI Desktop Pet](https://github.com/tabiatabassum/Buddio-AI-Desktop-Pet) | Interactive AI desktop companion featuring an animated pet, voice interaction, and text chat. | Python |
 | [KitLoop](https://github.com/tabiatabassum/KitLoop) | Campus equipment sharing, rental, and resale platform that helps students exchange academic and project resources. | Java, Spring Boot, Thymeleaf, Spring Security, Spring Data JPA, MySQL, Maven |
 | [TAC Generator](https://github.com/tabiatabassum/TAC-Generator) | Compiler Design tool that performs lexical and syntax analysis and generates Three Address Code (TAC). | C, Flex, Bison, GCC |
+
 
 ---
 
@@ -133,4 +133,3 @@ View My GitHub Achievements
 <img src="https://komarev.com/ghpvc/?username=tabiatabassum&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
-```
